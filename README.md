@@ -6,7 +6,7 @@
 <p>I currently lead <a href="https://sunrisenode.live">SunriseNode</a> as the CEO/Developer. We provide Discord bot hosting and soon minecraft hosting!</p>
   
 <img align="center" src="https://github-readme-stats.vercel.app/api//?username=JTXOfficial&theme=gruvbox" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTXOfficial&theme=gruvbox" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTXOfficial&theme=gruvbox" /> 
 
 
 
