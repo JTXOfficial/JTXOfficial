@@ -1,5 +1,5 @@
 <h1>What's up!</h1>
-<p> I'm Anthony, a Java developer, and web designer. I have skills in Java(JDA), HTML and CSS. I'm currently learning Java(Spigot)
+<p> I'm Anthony, a Java developer, and web designer. I have skills in Java(JDA), HTML and CSS. I'm currently learning Java(Spigot).
 
 <p>I am a Developer at <a href="https://theblitzbot.com">The Blitz Bot</a>. We make cool Discord bots for the Discord community to use that includes moderation, minecraft to valorant and more! </p>
 
