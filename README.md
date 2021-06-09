@@ -9,3 +9,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JTXOfficial&theme=gruvbox&include_all_commits=true&count_private=true" /> 
 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=JTXOfficial&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)]()
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs?username=JTXOfficial&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)]()
