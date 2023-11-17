@@ -1,7 +1,4 @@
 <h1>What's up!</h1>
-<p> I'm Anthony, I currently lead <a href="https://sunrisenode.com">SunriseNode</a> as the CEO. We provide affordable, high-performance, and reliable hosting that includes; VPS, Minecraft, and Discord Bots.</p>
-
-![](https://sunrisenode.com/assets/img/logos/sunrisenode-ban.gif)
 
 <h1> About me</h1>
 <p> I'm a Java developer, Web designer, and Sound engineer.</p>
